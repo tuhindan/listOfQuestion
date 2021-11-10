@@ -3,3 +3,11 @@ Find zeroes to be flipped so that number of consecutive 1’s is maximized : htt
 Write a program to print all permutations of a given string : https://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/
 Find Next Sparse Number : https://www.geeksforgeeks.org/given-a-number-find-next-sparse-number/
 Find the smallest positive number missing from an unsorted (READ ALL SOLUTION) : https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/
+
+
+
+
+2nd look:
+https://www.geeksforgeeks.org/find-the-element-before-which-all-the-elements-are-smaller-than-it-and-after-which-all-are-greater-than-it/
+https://www.geeksforgeeks.org/find-the-element-that-appears-once/
+https://www.geeksforgeeks.org/maximum-product-subarray/
