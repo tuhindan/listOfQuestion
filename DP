@@ -13,15 +13,14 @@ Longest Palindromic Subsequence  : https://www.geeksforgeeks.org/longest-palindr
 Wildcard Pattern Matching : https://www.geeksforgeeks.org/wildcard-pattern-matching/
 How to print maximum number of A’s using given four keys : https://www.geeksforgeeks.org/how-to-print-maximum-number-of-a-using-given-four-keys/
 Maximum sum rectangle in a 2D matrix : https://www.geeksforgeeks.org/maximum-sum-rectangle-in-a-2d-matrix-dp-27/
-Matrix Chain Multiplication : https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/
+
 
 HARD:
   Dice Throw | DP-30 : https://www.geeksforgeeks.org/dice-throw-dp-30/
   Palindrome Partitioning | DP-17 : https://www.geeksforgeeks.org/palindrome-partitioning-dp-17/
+  Matrix Chain Multiplication : https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/
   
   
 LOOK AGAIN:
-
-  https://www.geeksforgeeks.org/palindrome-partitioning-dp-17/
   https://www.geeksforgeeks.org/wildcard-pattern-matching/
   https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/
