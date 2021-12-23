@@ -14,8 +14,9 @@ Number of subsequences of the form a^i b^j c^k : https://www.geeksforgeeks.org/n
 Minimum Number of Platforms Required for a Railway/Bus Station : https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/
                                                                : https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station-set-2-map-based-approach/
                                                                : https://www.youtube.com/watch?v=b2UNMZkXAh0
-Find the first circular tour that visits all petrol pumps : Merge Overlapping Intervals : https://www.geeksforgeeks.org/merging-intervals/
-https://www.geeksforgeeks.org/find-a-tour-that-visits-all-stations/
+Find the first circular tour that visits all petrol pumps : https://www.geeksforgeeks.org/find-a-tour-that-visits-all-stations/
+Merge Overlapping Intervals : https://www.geeksforgeeks.org/merging-intervals/
+Split a given array into K subarrays minimizing the difference between their maximum and minimum : https://www.geeksforgeeks.org/split-a-given-array-into-k-subarrays-minimizing-the-difference-between-their-maximum-and-minimum/?ref=lbp
 
 2nd look:
 https://www.geeksforgeeks.org/find-the-element-before-which-all-the-elements-are-smaller-than-it-and-after-which-all-are-greater-than-it/
