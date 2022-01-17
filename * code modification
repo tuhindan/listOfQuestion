@@ -1,0 +1,2 @@
+Remove minimum elements from either side such that 2*min becomes more than max : https://www.geeksforgeeks.org/remove-minimum-elements-either-side-2min-max/
+* O(n) sol is possible with use of queue to store the smallest and largest element as we move with 2 pointers
