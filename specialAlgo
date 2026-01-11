@@ -1,5 +1,6 @@
 Moore’s Voting Algorithm : https://www.geeksforgeeks.org/majority-element/
 Count ways to reach the n’th stair : https://www.geeksforgeeks.org/count-ways-reach-nth-stair/ (Last solution)
+                                   : https://www.geeksforgeeks.org/dsa/matrix-exponentiation/
                   doubt solution : if a is [2,4,5]
                                   then f(n) = f(n-2) + f(n-4) + f(n-5)
                                   so   f(6) = f(4) + f(2) + f(1)
