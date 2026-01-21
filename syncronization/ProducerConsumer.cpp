@@ -1,4 +1,6 @@
 // https://www.geeksforgeeks.org/operating-systems/producer-consumer-problem-using-semaphores-set-1/
+// semphore is only vaialble in c++20 and above
+// use https://www.onlinegdb.com/online_c++_compiler for testing
 
 #include <iostream>
 #include <mutex>
