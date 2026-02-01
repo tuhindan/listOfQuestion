@@ -46,24 +46,24 @@ void writer() {
 
 int main()
 {
+    vector<thread> th;
     for(int i = 0 ; i < 5 ; i++) {
-        thread reader1(reader);
-        reader1.detach();
+        th.emplace_back(reader);
     }
 
     for(int i = 0 ; i < 3 ; i++) {
-        thread writer1(writer);
-        writer1.detach();
+        th.emplace_back(writer);
     }
-   
    
     for(int i = 0 ; i < 5 ; i++) {
-        thread reader1(reader);
-        reader1.detach();
+        th.emplace_back(reader);
     }
 
-    // if main thread is finished, nothing from the other thread will be printed
-    this_thread::sleep_for(10s);
+    // for(int i = 0 ; i < th.size(); i++)
+    //     th[i].join();
+    
+    for(auto &t : th)
+        t.join();
 
     return 0;
 }
