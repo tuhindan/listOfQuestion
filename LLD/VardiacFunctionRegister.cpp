@@ -102,13 +102,14 @@ int main()
     functionRegister.registerFunc("func11" , {"bool", "integer", "integer"}, true);
     functionRegister.registerFunc("func12" , {"bool", "integer"}, true);
     functionRegister.registerFunc("func13" , {"bool"}, true);
-    functionRegister.registerFunc("func5" , {}, true);
+    functionRegister.registerFunc("func14" , {"integer"}, true);
+    functionRegister.registerFunc("func15" , {}, true);
     
     
     printVector(functionRegister.getFunc({"bool", "integer", "integer"}));
     printVector(functionRegister.getFunc({"bool"}));
+    printVector(functionRegister.getFunc({"integer", "integer", "integer"}));
     printVector(functionRegister.getFunc({}));
     
-
     return 0;
 }
